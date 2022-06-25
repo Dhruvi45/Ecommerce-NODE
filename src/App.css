@@ -12,7 +12,21 @@
     animation: App-logo-spin infinite 20s linear;
   }
 }
-
+#search{
+  width: 400px;
+}
+#logo{
+  height: 30px;
+  width: 100px;
+}
+footer{
+  width: 100%;
+  text-align: center;
+  background-color: #282c34;
+  color: #fff;
+  position: absolute;
+  margin-top: 540px;
+}
 .App-header {
   background-color: #282c34;
   min-height: 100vh;

@@ -1,0 +1,14 @@
+.carouselbanner {
+  height: 75vh;
+  min-height: 400px
+}
+.carouselcontrols {
+  display: flex;
+  width: 100%;
+  position: absolute;
+  bottom: 0;
+  gap: 35px;
+  padding: 20px 10%;
+  font-weight: bold;
+  justify-content: center;
+}
